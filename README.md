@@ -214,9 +214,6 @@ GitHub: https://github.com/HimanshuS-arch
 
 ---
 
-# License
-
-This project is licensed under the MIT License.
 
 ---
 
