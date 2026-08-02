@@ -1,0 +1,11 @@
+tensorflow
+keras
+opencv-python
+catboost
+scikit-learn
+numpy
+pandas
+matplotlib
+jupyter
+notebook
+Pillow
