@@ -121,7 +121,6 @@ Hybrid-Crowd-Counting-using-ResNet-50-CatBoost/
 ├── Hybrid Crowd Counting using ResNet-50 & CatBoost.ipynb
 ├── README.md
 ├── requirements.txt
-├── assets/
 └── dataset/
 ```
 
